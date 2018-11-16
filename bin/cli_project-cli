@@ -1,0 +1,4 @@
+#!/usr/bin/ruby
+require_relative "../lib/environment"
+
+Cli.new.run
